@@ -2,8 +2,8 @@
 
 > **Connect with local athletes, join exciting sports events, and build your community**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://your-live-website-url.com)
-[![GitHub Repo](https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge)](https://github.com/yourusername/sports-buddy)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://sports-buddy.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge)](https://github.com/shivansh-16/Sports-Buddy)
 [![LinkedIn Post](https://img.shields.io/badge/💼_LinkedIn-Read_Post-0077B5?style=for-the-badge)](https://linkedin.com/posts/your-linkedin-post)
 
 ---
@@ -25,7 +25,7 @@ Sports Buddy is a modern web platform that connects sports enthusiasts in local 
 
 ## 🚀 Quick Start
 
-1. **Visit the Website**: [Sports Buddy Live Demo](https://your-live-website-url.com)
+1. **Visit the Website**: [Sports Buddy Live Demo](https://sports-buddy.netlify.app/)
 2. **Sign Up**: Create your free account in seconds
 3. **Explore Events**: Browse sports events in your city
 4. **Join or Create**: Join existing events or create your own
@@ -104,14 +104,9 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 - **LinkedIn Post**: [Read About the Project](https://linkedin.com/posts/your-linkedin-post)
 
 ### 📧 **Get in Touch**
-- **Email**: contact@sportsbuddy.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitter](https://twitter.com/yourtwitter)
+- **Email**: shivanshpawar57@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shivansh-pawar/)
 
-### 🆘 **Support**
-- **Issues**: [Report on GitHub](https://github.com/yourusername/sports-buddy/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sports-buddy/discussions)
-- **Documentation**: [Developer Guide](./README-DEVELOPER.md)
 
 ---
 
@@ -132,17 +127,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎉 Join the Community
 
-Ready to find your sports partner? **[Get Started Now!](https://your-live-website-url.com)**
+Ready to find your sports partner? **[Get Started Now!](https://sports-buddy.netlify.app/)**
 
 *Made with ❤️ for the sports community*
 
 ---
 
-### 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sports-buddy?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sports-buddy?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/sports-buddy)
-![GitHub license](https://img.shields.io/github/license/yourusername/sports-buddy)
 
 **⭐ Star this repo if you find it helpful!**
