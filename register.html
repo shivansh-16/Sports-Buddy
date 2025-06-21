@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - Sports Buddy</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <a href="index.html" class="logo">🏀 Sports Buddy</a>
+                <nav class="nav">
+                    <a href="login.html" class="btn btn-outline">Login</a>
+                </nav>
+            </div>
+        </header>
+
+        <main class="auth-main">
+            <div class="auth-container">
+                <div class="auth-card fade-in">
+                    <h2>🚀 Join Sports Buddy</h2>
+                    <p>Create your account and start connecting with local athletes today!</p>
+                    
+                    <form id="registerForm" class="auth-form">
+                        <div class="form-group">
+                            <label for="name">👤 Full Name</label>
+                            <input type="text" id="name" name="name" placeholder="Enter your full name" required>
+                            <span class="error-message" id="nameError"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email">📧 Email Address</label>
+                            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                            <span class="error-message" id="emailError"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="password">🔒 Password</label>
+                            <input type="password" id="password" name="password" placeholder="Create a strong password" minlength="6" required>
+                            <span class="error-message" id="passwordError"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="confirmPassword">🔐 Confirm Password</label>
+                            <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm your password" minlength="6" required>
+                            <span class="error-message" id="confirmPasswordError"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-full" id="registerBtn">
+                            🎉 Create Account
+                        </button>
+                    </form>
+
+                    <div class="auth-footer">
+                        <p>Already have an account? <a href="login.html">Sign in here</a></p>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>🏀 Sports Buddy</h3>
+                    <p>Connecting athletes and building communities through sports.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">📘</a>
+                        <a href="#" class="social-link">📷</a>
+                        <a href="#" class="social-link">🐦</a>
+                        <a href="#" class="social-link">💼</a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#help">Help Center</a></li>
+                        <li><a href="#community">Community</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Legal</h3>
+                    <ul class="footer-links">
+                        <li><a href="#terms">Terms & Conditions</a></li>
+                        <li><a href="#privacy">Privacy Policy</a></li>
+                        <li><a href="#cookies">Cookie Policy</a></li>
+                        <li><a href="#guidelines">Community Guidelines</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Sports</h3>
+                    <ul class="footer-links">
+                        <li><a href="#cricket">🏏 Cricket</a></li>
+                        <li><a href="#football">⚽ Football</a></li>
+                        <li><a href="#basketball">🏀 Basketball</a></li>
+                        <li><a href="#tennis">🎾 Tennis</a></li>
+                        <li><a href="#badminton">🏸 Badminton</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>© 2025 Sports Buddy. All rights reserved. Made with ❤️ for the sports community.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js"></script>
+    <script type="module" src="js/firebase-config.js"></script>
+    <script type="module" src="js/logging.js"></script>
+    <script type="module" src="js/auth.js"></script>
+    <script type="module" src="js/register.js"></script>
+    <script type="module" src="js/toast.js"></script>
+</body>
+</html>
