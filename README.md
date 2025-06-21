@@ -2,8 +2,8 @@
 
 > **Connect with local athletes, join exciting sports events, and build your community**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://your-live-website-url.com)
-[![GitHub Repo](https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge)](https://github.com/yourusername/sports-buddy)
+[![Live Demo]](https://your-live-website-url.com)
+[![GitHub Repo](https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge)](https://github.com/shivansh-16/Sports-Buddy/)
 [![LinkedIn Post](https://img.shields.io/badge/💼_LinkedIn-Read_Post-0077B5?style=for-the-badge)](https://linkedin.com/posts/your-linkedin-post)
 
 ---
