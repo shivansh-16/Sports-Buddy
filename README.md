@@ -2,7 +2,7 @@
 
 > **Connect with local athletes, join exciting sports events, and build your community**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/07f33471-111b-47a3-9133-b7239fda1601/deploy-status)](https://app.netlify.com/projects/sports-buddy/deploys)
+
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://sports-buddy.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge)](https://github.com/shivansh-16/Sports-Buddy)
 [![LinkedIn Post](https://img.shields.io/badge/💼_LinkedIn-Read_Post-0077B5?style=for-the-badge)](https://linkedin.com/posts/your-linkedin-post)
